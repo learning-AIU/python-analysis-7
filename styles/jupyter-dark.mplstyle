@@ -1,0 +1,13 @@
+figure.facecolor: 181a1b
+axes.facecolor: 181a1b
+
+text.color: white
+
+lines.color: e8e6e3
+patch.edgecolor: e8e6e3
+axes.edgecolor: e8e6e3
+axes.labelcolor: e8e6e3
+xtick.color: e8e6e3
+ytick.color: e8e6e3
+
+axes.prop_cycle: cycler('color', ['b2df8a', 'fb9a99', '7570b3', '7570b3', '7570b3', 'ffffcc', 'e5d8bd', 'fddaec', 'f2f2f2'])
